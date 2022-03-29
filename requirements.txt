@@ -1,2 +1,4 @@
 jupyter
 pandas
+awscrt==0.13.6
+awsiotsdk==1.10.0
